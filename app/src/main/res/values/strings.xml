@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BlinkViewExample</string>
+    <string name="button_click_me">Click Me</string>
+</resources>
